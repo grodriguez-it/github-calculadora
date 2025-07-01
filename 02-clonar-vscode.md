@@ -4,8 +4,8 @@
 2. Abre la terminal y ejecuta:
 
 ```bash
-git clone https://github.com/tu_usuario/calculadora-js.git
-cd calculadora-js
+git clone https://github.com/grodriguez-it/github-calculadora.git
+touch calculadora-js
 ```
 
 3. Abre VS Code con:
